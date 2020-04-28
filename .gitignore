@@ -1,0 +1,15 @@
+
+.DS_Store
+LklLauncher/.DS_Store
+LklLauncher/.gradle/
+LklLauncher/build/
+LklLauncher/app/build/
+LklLauncher/controllerAidl/build/
+LklLauncher/local.properties
+LklLauncher/gradle/
+LklLauncher/Controller.iml
+LklLauncher/controllerAidl/controllerAidl.iml
+LklLauncher/gradlew
+LklLauncher/gradlew.bat
+LklLauncher/app/app.iml
+LklLauncher/.idea
